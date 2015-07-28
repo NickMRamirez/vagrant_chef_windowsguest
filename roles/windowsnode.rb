@@ -1,4 +1,0 @@
-name 'windowsnode'
-description 'A generic Windows node'
-
-run_list 'recipe[genericcookbook]'
